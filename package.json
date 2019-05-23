@@ -1,0 +1,14 @@
+{
+  "name": "shahbaz_guruji",
+  "version": "1.0.0",
+  "description": "creating framework using protractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "shahbaz"
+  ],
+  "author": "yogi_tarun",
+  "license": "ISC"
+}
